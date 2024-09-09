@@ -1,0 +1,115 @@
+    1  wget www.github.com
+    2  passwd
+    3  ping
+    4  pwd
+    5  ls
+    6  cd index.html
+    7  pwd
+    8  ls
+    9  vi
+   10  vi test.txt
+   11  ls
+   12  vi test.txt
+   13  ls
+   14  cat test.txt
+   15  vi test.txt
+   16  cat test.txt
+   17  ls -l
+   18  vi test.txt
+   19  cat test.txt
+   20  vi test.txt
+   21  cat test.txt
+   22  mkdir testDirectory
+   23  ls
+   24  man tar
+   25  tar -h
+   26  tar --help
+   27  ls
+   28  man del
+   29  del =-help
+   30  d -help
+   31  ls -a
+   32  ls
+   33  man ls
+   34  ls -latr
+   35  ls -lahtr
+   36  ls
+   37  ls -l
+   38  ks
+   39  ls
+   40  rm index.html
+   41  ls
+   42  git clone git@github.com:https://github.com/CS131-BigDataProcessing/a1-collab-devintaing
+   43  git clone git@github.com:CS131-BigDataProcessing/a1-collab-devintaing
+   44  gh repo clone https://github.com/CS131-BigDataProcessing/a1-collab-devintaing
+   45  git clone git@github.com:your/github/repository
+   46  git clone https://github.com/CS131-BigDataProcessing/a1-collab-devintaing
+   47  git branch devintaing-colab
+   48  ls
+   49  cd a1-collab-devintaing
+   50  git branch devintaing-collab
+   51  git branch
+   52  git checkout devintaing-collab
+   53  ls
+   54  vi Collaborators.md
+   55  cat Collaborators.md
+   56  git status
+   57  git pull origin main
+   58  git checkout main
+   59  git push --set-upstream origin devintaing-collab
+   60  git push --set-upstream origin devintiang-collab
+   61  git push --set-upstream origin devintaing-collab
+   62  ls
+   63  cd a1-collab-devintaing
+   64  ls
+   65  git branch
+   66  git checkout devintaing-collab
+   67  git status
+   68  cat Collaborators.md
+   69  git push --set-upstream origin devintaing-collab
+   70  git pull origin main
+   71  git checkout main
+   72  git merge devintaing-collab
+   73  git add Collaborators.md
+   74  git commit -m "devintaing added to collaborators"
+   75  got config --global user.email "devint1013@gmail.com"
+   76  git config --global user.email "devint1013@gmail.com"
+   77  git config --global user.name "devintaing"
+   78  git commit -m "devintaing added to collaborators"
+   79  git push
+   80  ls
+   81  vi test.txt
+   82  wc test.txt
+   83  echo "me"
+   84  pwd
+   85  echo "pwd"
+   86  echo 'pwd'
+   87  echo `pwd`
+   88  `pwd`
+   89  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles
+   90  ls
+   91  cd CS131_fa24_datafiles
+   92  ls
+   93  cd Lec02
+   94  ls
+   95  cat goodluck.txt
+   96  vi goodluck.txt
+   97  ls
+   98  cd CS131_fa24_datafiles/
+   99  ls
+  100  cd Lec02/
+  101  vi goodluck.txt
+  102  cat goodluck.txt
+  103  vi goodluck.txt
+  104  ls
+  105  vi goodluck.txt
+  106  cat goodluck.txt
+  107  vi goodluck.txt
+  108  wc goodluck.txt
+  109  grep "Good luck, babe" goodluck.txt
+  110  wc goodluck.txt > taing-d_a2_counts.txt
+  111  ls
+  112  cat taing-d_a2_counts.txt
+  113  vi taing-d_a2_counts.txt 
+  114  cat taing-d_a2_counts.txt 
+  115  history > taing-d_a2_cmds.log

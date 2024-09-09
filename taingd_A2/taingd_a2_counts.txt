@@ -1,0 +1,6 @@
+  50  466 2346 goodluck.txt
+
+50 --> line count
+466 --> word count
+2346 --> character count
+goodluck.txt --> file name
