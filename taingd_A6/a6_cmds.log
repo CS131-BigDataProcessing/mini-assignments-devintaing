@@ -1,0 +1,517 @@
+    1  wget www.github.com
+    2  passwd
+    3  ping
+    4  pwd
+    5  ls
+    6  cd index.html
+    7  pwd
+    8  ls
+    9  vi
+   10  vi test.txt
+   11  ls
+   12  vi test.txt
+   13  ls
+   14  cat test.txt
+   15  vi test.txt
+   16  cat test.txt
+   17  ls -l
+   18  vi test.txt
+   19  cat test.txt
+   20  vi test.txt
+   21  cat test.txt
+   22  mkdir testDirectory
+   23  ls
+   24  man tar
+   25  tar -h
+   26  tar --help
+   27  ls
+   28  man del
+   29  del =-help
+   30  d -help
+   31  ls -a
+   32  ls
+   33  man ls
+   34  ls -latr
+   35  ls -lahtr
+   36  ls
+   37  ls -l
+   38  ks
+   39  ls
+   40  rm index.html
+   41  ls
+   42  git clone git@github.com:https://github.com/CS131-BigDataProcessing/a1-collab-devintaing
+   43  git clone git@github.com:CS131-BigDataProcessing/a1-collab-devintaing
+   44  gh repo clone https://github.com/CS131-BigDataProcessing/a1-collab-devintaing
+   45  git clone git@github.com:your/github/repository
+   46  git clone https://github.com/CS131-BigDataProcessing/a1-collab-devintaing
+   47  git branch devintaing-colab
+   48  ls
+   49  cd a1-collab-devintaing
+   50  git branch devintaing-collab
+   51  git branch
+   52  git checkout devintaing-collab
+   53  ls
+   54  vi Collaborators.md
+   55  cat Collaborators.md
+   56  git status
+   57  git pull origin main
+   58  git checkout main
+   59  git push --set-upstream origin devintaing-collab
+   60  git push --set-upstream origin devintiang-collab
+   61  git push --set-upstream origin devintaing-collab
+   62  ls
+   63  cd a1-collab-devintaing
+   64  ls
+   65  git branch
+   66  git checkout devintaing-collab
+   67  git status
+   68  cat Collaborators.md
+   69  git push --set-upstream origin devintaing-collab
+   70  git pull origin main
+   71  git checkout main
+   72  git merge devintaing-collab
+   73  git add Collaborators.md
+   74  git commit -m "devintaing added to collaborators"
+   75  got config --global user.email "devint1013@gmail.com"
+   76  git config --global user.email "devint1013@gmail.com"
+   77  git config --global user.name "devintaing"
+   78  git commit -m "devintaing added to collaborators"
+   79  git push
+   80  ls
+   81  vi test.txt
+   82  wc test.txt
+   83  echo "me"
+   84  pwd
+   85  echo "pwd"
+   86  echo 'pwd'
+   87  echo `pwd`
+   88  `pwd`
+   89  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles
+   90  ls
+   91  cd CS131_fa24_datafiles
+   92  ls
+   93  cd Lec02
+   94  ls
+   95  cat goodluck.txt
+   96  vi goodluck.txt
+   97  ls
+   98  cd CS131_fa24_datafiles/
+   99  ls
+  100  cd Lec02/
+  101  vi goodluck.txt
+  102  cat goodluck.txt
+  103  vi goodluck.txt
+  104  ls
+  105  vi goodluck.txt
+  106  cat goodluck.txt
+  107  vi goodluck.txt
+  108  wc goodluck.txt
+  109  grep "Good luck, babe" goodluck.txt
+  110  wc goodluck.txt > taing-d_a2_counts.txt
+  111  ls
+  112  cat taing-d_a2_counts.txt
+  113  vi taing-d_a2_counts.txt 
+  114  cat taing-d_a2_counts.txt 
+  115  history > taing-d_a2_cmds.log
+  116  ls
+  117  cat taing-d_a2_cmds.log
+  118  cd
+  119  ls
+  120  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-devintaing
+  121  ls
+  122  cd mini-assignments-devintaing/
+  123  ls
+  124  mkdir taing-d_A2
+  125  ls
+  126  cd
+  127  ls
+  128  cd CS131_fa24_datafiles/
+  129  ls
+  130  cd Lec02/
+  131  ls
+  132  mv taing-d_a2_cmds.log ~/mini-assignments-devintaing/taing-d_A2
+  133  ls
+  134  mv taing-d_a2_counts.txt ~/mini-assignments-devintaing/taing-d_A2
+  135  ls
+  136  cd
+  137  ls
+  138  cd mini-assignments-devintaing/
+  139  ls
+  140  cd taing-d_A2/
+  141  ls
+  142  git status
+  143  cd mini-assignments-devintaing/
+  144  git status
+  145  ls
+  146  git add taing-d_A2/
+  147  git status
+  148  cd
+  149  mkdir taingd_A4_shell
+  150  ls
+  151  cd taingd_A4_shell/
+  152  touch class_practice.sh
+  153  ls
+  154  vim class_practice.sh 
+  155  sh class_practice.sh Devin
+  156  cd
+  157  ls
+  158  cd mini-assignments-devintaing/
+  159  ls
+  160  mv taing-d_A2/ taingd_A2
+  161  ls
+  162  cd taingd_A2/
+  163  ls
+  164  mv taing-d_a2_cmds.log taingd_a2_cmds.log
+  165  ls
+  166  mv taing-d_a2_counts.txt taingd_a2_counts.txt
+  167  ls
+  168  cd
+  169  cd mini-assignments-devintaing/
+  170  ls
+  171  git status
+  172  git add taingd_A2/
+  173  git status
+  174  cd taingd_A2/
+  175  cd
+  176  cd mini-assignments-devintaing/
+  177  git status
+  178  git commit
+  179  git pull
+  180  git push
+  181  cd
+  182  cd mini-assignments-devintaing/
+  183  git status
+  184  git add taing-d_A2
+  185  git status
+  186  git commit -m "devintaing removed old directory"
+  187  git push
+  188  cd
+  189  ls
+  190  cd taingd_A4_shell/
+  191  ls
+  192  vim class_practice.sh 
+  193  cat class_practice.sh 
+  194  sh class_practice.sh Devin
+  195  cd
+  196  ls
+  197  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+  198  ls
+  199  vi ~/.vimrc
+  200  cd taingd_A4_shell/
+  201  ls
+  202  vi class_practice.sh 
+  203  cd
+  204  vi ~/.vimrc
+  205  ls
+  206  cd taingd_A4_shell/
+  207  ls
+  208  mkdir taingd_A4
+  209  ls
+  210  who
+  211  date
+  212  $HOME
+  213  $USER
+  214  USER
+  215  cd taingd_A4
+  216  touch echoing.sh
+  217  ls
+  218  vim echoing.sh 
+  219  clear
+  220  sh echoing.sh 
+  221  vim echoing.sh 
+  222  sh echoing.sh 
+  223  echo $HOME
+  224  echo $USER
+  225  printenv
+  226  clear
+  227  vim echoing.sh 
+  228  sh echoing.sh 
+  229  vim echoing.sh 
+  230  sh echoing.sh 
+  231  cd
+  232  ls -a
+  233  cat /etc/profile
+  234  cd
+  235  ls
+  236  rm taingd_A4_shell
+  237  clear
+  238  cd taingd_A4
+  239  ls
+  240  vim echoing.sh 
+  241  sh echoing.sh 
+  242  cd
+  243  ls
+  244  cd CS131_fa24_datafiles/
+  245  git pull
+  246  cd
+  247  ls -a
+  248  rm -r taingd_A4_shell
+  249  ls
+  250  cd testDirectory/
+  251  ls
+  252  cd
+  253  rm testDirectory
+  254  rm -r testDirectory
+  255  ls
+  256  cat test.txt
+  257  cat ~/.bash_profile
+  258  clear
+  259  cat ~/.bash_profile
+  260  cat ~/.bashrc
+  261  ls
+  262  cd taingd_A4/
+  263  ls
+  264  touch activity2.sh
+  265  ls
+  266  cd
+  267  vim ~/.bashrc
+  268  source ~/.bashrc
+  269  ll
+  270  cd taingd_A4/
+  271  ls
+  272  vim activity2.sh 
+  273  sh activity2.sh Devin 100
+  274  clear
+  275  touch activity3.sh
+  276  ls
+  277  vim activity3.sh 
+  278  ls
+  279  rm activity3.sh
+  280  vi activity2.sh 
+  281  rm activity2.sh 
+  282  vi echoing.sh 
+  283  sh echoing.sh 
+  284  vi echoing.sh 
+  285  sh echoing.sh 
+  286  vi echoing.sh 
+  287  sh echoing.sh 
+  288  vim echoing.sh 
+  289  sh echoing.sh 
+  290  vim echoing.sh 
+  291  sh echoing.sh 
+  292  vim echoing.sh 
+  293  sh echoing.sh 
+  294  vim echoing.sh 
+  295  sh echoing.sh 
+  296  vim echoing.sh 
+  297  sh echoing.sh 
+  298  sh echoing.sh devin 100
+  299  cd
+  300  ls
+  301  cd mini-assignments-devintaing/
+  302  ls
+  303  git add taingd_A4
+  304  git add ~/.taingd_A4
+  305  cd
+  306  ls
+  307  cd taingd_A4/
+  308  ls
+  309  vi echoing.sh 
+  310  sh echoing.sh devin 100
+  311  cd
+  312  ls
+  313  pwd
+  314  cd mini-assignments-devintaing/
+  315  pwd
+  316  cd
+  317  mv taingd_A4 /mnt/scratch/FA24_CS131_Jessica/dtaingfa24/mini-assignments-devintaing
+  318  ls
+  319  cd mini-assignments-devintaing/
+  320  ls
+  321  git add taingd_A4/
+  322  git commit -m "devintaing added A4"
+  323  git push
+  324  cd
+  325  exit
+  326  ls
+  327  cd CS131_fa24_datafiles/
+  328  git pull
+  329  ls
+  330  cd Lec0
+  331  cd Lec07
+  332  ls
+  333  sh lec07_class.sh 
+  334  vim lec07_class.sh 
+  335  cd
+  336  ls
+  337  mkdir testing
+  338  cd testing/
+  339  touch if.sh
+  340  vim if.sh 
+  341  cd
+  342  ls
+  343  cd CS131_fa24_datafiles/
+  344  cd Lec0
+  345  cd Lec07
+  346  clear
+  347  vim lec07_class.sh 
+  348  cd
+  349  cd testing/
+  350  vim if.sh 
+  351  cd testing/
+  352  vim 
+  353  ls
+  354  vim if.sh 
+  355  sh if.sh dtaingfa24
+  356  vim if.sh 
+  357  sh if.sh 
+  358  cd testing/
+  359  vim if.sh 
+  360  sh if.sh dtaingfa24
+  361  vim if.sh 
+  362  sh if.sh dtaingfa24
+  363  cd
+  364  ls
+  365  cd mini-assignments-devintaing/
+  366  ls
+  367  mkdir taingd_A5
+  368  cd taingd_A5
+  369  ls
+  370  touch age.sh
+  371  vim age.sh 
+  372  sh age.sh 15
+  373  cat age.sh 
+  374  vim age.sh 
+  375  sh age.sh 13
+  376  vim age.sh 
+  377  sh age.sh 13
+  378  vim age.sh 
+  379  sh age.sh 13
+  380  vim age.sh 
+  381  sh age.sh 13
+  382  vim age.sh 
+  383  sh age.sh 13
+  384  vim age.sh 
+  385  sh age.sh 13
+  386  clear
+  387  sh age.sh 13
+  388  vim age.sh 
+  389  sh age.sh 13
+  390  vim age.sh 
+  391  clear
+  392  sh age.sh 13
+  393  vim age.sh 
+  394  sh age.sh 13
+  395  vim age.sh 
+  396  sh age.sh 13
+  397  vim age.sh 
+  398  sh age.sh 13
+  399  vim age.sh 
+  400  sh age.sh 13
+  401  sh age.sh 19
+  402  sh age.sh 12
+  403  sh age.sh 48
+  404  sh age.sh 72
+  405  touch temperature.sh
+  406  vim temperature.sh 
+  407  sh temperature.sh 62
+  408  vim temperature.sh 
+  409  vim age.sh 
+  410  vim temperature.sh 
+  411  sh temperature.sh 62
+  412  vim temperature.sh 
+  413  sh temperature.sh 62
+  414  sh temperature.sh 5
+  415  sh temperature.sh 97
+  416  vim temperature.sh 
+  417  sh temperature.sh 62
+  418  sh temperature.sh 5
+  419  sh temperature.sh 97
+  420  sh temperature.sh 73
+  421  cd
+  422  cd mini-assignments-devintaing/
+  423  git add taingd_A5
+  424  ls
+  425  git push
+  426  git commit
+  427  git commit -m "devintaing added A5"
+  428  git push
+  429  ls
+  430  cd CS131_fa24_datafiles/
+  431  git pull
+  432  clear
+  433  ls
+  434  cd Lec8
+  435  cd Lec08
+  436  cat airline_stats.csv 
+  437  clear
+  438  head airline_stats.csv 
+  439  clear
+  440  awk '/ya/' /etc/passwd
+  441  awk '/ya/ { print $5 }' /etc/passwd
+  442  awk -F '/ya/ { print $5 }' /etc/passwd
+  443  ls
+  444  cd CS131_fa24_datafiles/
+  445  cd Lec08
+  446  awk -F, '{print $4}' airline_stats.csv 
+  447  clear
+  448  cp -help
+  449  cp --help
+  450  cp airline_stats.csv
+  451  cd
+  452  ls
+  453  cd CS131_fa24_datafiles/
+  454  cd Lec08
+  455  ls
+  456  cd
+  457  mkdir tempWork
+  458  cd tempWork/
+  459  cp ~/CS131_fa24_datafiles/Lec08/airline_stats.csv ~/tempWork/
+  460  ls
+  461  touch airline_inquiry.txt
+  462  awk -F, '{print $4}' airline_stats.csv 
+  463  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort
+  464  Threshold=15
+  465  awk -v thresh="$Threshold" '{ if ($1 > thresh) print $4 }' airline_stats.csv
+  466  clear
+  467  threshold_value=15
+  468  echo $threshold_value 
+  469  awk -v Threshold="$threshold_value" '{ if ($1 > Threshold) print $4 }' airline_stats.csv
+  470  clear
+  471  ls
+  472  vim airline_inquiry.txt
+  473  cat airline_inquiry.txt
+  474  awk -F, '{print $4}' airline_stats.csv
+  475  vim airline_inquiry.txt 
+  476  vim airline_inquiry.txt 
+  477  echo $threshold_value 
+  478  clear
+  479  p_value=0.5
+  480  awk -v pv="$p_value" '{ if ($1 > pv) print $4 }' airline_stats.csv
+  481  clear
+  482  awk -v threshold="$threshold_value" '{ if ($1 > threshold) print $4 }' airline_stats.csv
+  483  clear
+  484  echo $threshold_value 
+  485  awk -v -F, threshold="$threshold_value" '{ if ($1 > threshold) print $4 }' airline_stats.csv
+  486  awk -v threshold="$threshold_value" '{ if ($1 > threshold) print $4 }' airline_stats.csv
+  487  awk -v threshold="$threshold_value" '{ if ($1>threshold) print $4 }' airline_stats.csv
+  488  cat airline_inquiry.txt 
+  489  awk -F, '$1 > 10 {print $4}' airline_stats.cs
+  490  awk -v threshold="$threshold_value" '{if ($1>threshold) print $4}' airline_stats.csv
+  491  awk -v threshold="$threshold_value" '$1>threshold {print $4}' airline_stats.csv
+  492  awk -v threshold="$threshold_value" '{ if ($1>threshold) print $4 }' airline_stats.csv
+  493  awk -v threshold="$threshold_value" '{ if ($1 > threshold) print $4 }' airline_stats.csv
+  494  awk -v threshold="$threshold_value" '{ if ($1 > threshold) print $1 }' airline_stats.csv
+  495  echo $p_value
+  496  awk -v pv="$p_value" '{ if ($1 > pv) print $0 }'
+  497  awk -v pv="$p_value" '{ if ($1 > pv) print $0 }' airline_stats.csv
+  498  awk -v pv="$p_value" '{ if ($1 > pv) print $4 }' airline_stats.csv
+  499  awk -v pv="$p_value" '{ if ($1 > pv) print $0 }' airline_stats.csv
+  500  awk -F, -v threshold="$threshold_value" '{ if ($1 > threshold) print $4 }' airline_stats.csv
+  501  vim airline_inquiry.txt 
+  502  quit
+  503  q
+  504  ls
+  505  cd tempWork/
+  506  ls
+  507  cat airline_inquiry.txt 
+  508  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort
+  509  cat airline_inquiry.txt 
+  510  threshold_value=15" & "awk -F, -v threshold="$threshold_value" '{ if ($1 > threshold) print $4 }' airline_stats.csv
+  511  threshold_value=15
+  512  awk -F, -v threshold="$threshold_value" '{ if ($1 > threshold) print $4 }' airline_stats.csv
+  513  vim
+  514  vim airline_inquiry.txt 
+  515  clear
+  516  cat airline_inquiry.txt 
+  517  history > a6_cmds.log

@@ -1,0 +1,7 @@
+1.  Airlines: Delta, Jet Blue, United, Alaska, American, Southwest
+  "awk -F, '{print $4}' airline_stats.csv"
+2a. Airlines: Alaska, American, Delta, Jet Blue, Southwest, United
+  "awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort"
+2b. Airlines: American, Delta, United, Jet Blue, Southwest, Alaska
+  "threshold_value=15"
+  "awk -F, -v threshold="$threshold_value" '{ if ($1 > threshold) print $4 }' airline_stats.csv" 
