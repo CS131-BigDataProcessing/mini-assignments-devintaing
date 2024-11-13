@@ -867,3 +867,21 @@
   867  awk -F'\t' '{sum += $"PropertyID"; n++} END {print sum / n}' house_sales.csv
   868  awk -F'\t' '{sum += $"SalePrice"; n++} END {print sum / n}' house_sales.csv
   869  history > cmd.log
+  870  ls
+  871  cp cmd.log ~/mini-assignments-devintaing/
+  872  cd
+  873  cd mini-assignments-devintaing/
+  874  ls
+  875  git push
+  876  git add cmd.log
+  877  git commit
+  878  git push
+  879  cd
+  880  cd midterm2/
+  881  ls
+  882  awk -F'\"' '{sum += $2; n++} END {print sum / n}' house_sales.csv
+  883  awk -F'\"' '{sum += $3; n++} END {print sum / n}' house_sales.csv
+  884  awk -F'\t' '{sum += $2; n++} END {print sum / n}' house_sales.csv
+  885  awk -F'\t' '{sum += $3; n++} END {print sum / n}' house_sales.csv
+  886  rm cmd.log
+  887  history > cmd.log
