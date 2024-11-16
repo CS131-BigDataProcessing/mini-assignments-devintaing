@@ -1,0 +1,5 @@
+0 2 * * * rm ~/path/to/home/temp/*
+
+0 3 * * 0 tar -czf ~/path/to/home/user/backups/backupTest.tar.gz ~/path/to/home/user/*
+
+30 8 * * * echo `df -h` | mail -s "Disk usage report" temp@CS131.com

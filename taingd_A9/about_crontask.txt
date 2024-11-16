@@ -1,0 +1,5 @@
+What other types of tasks could benefit from automation using cron or at?
+
+
+What potential risks are there with poorly managed automated tasks, and how can you avoid them?
+
