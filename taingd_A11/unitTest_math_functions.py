@@ -10,6 +10,8 @@ class TestMathFunctions(unittest.TestCase):
     self.assertEqual(divide(-10, 2), -5)
     self.assertEqual(divide(10, -2), -5)
     self.assertEqual(divide(-10, -2), 5)
+    self.assertEqual(divide(0, 0), "You cannot divide by 0.")
+    self.assertEqual(divide(-10, 0), "You cannot divide by 0.")
 
   def test_power(self):
     self.assertEqual(power(2, 3), 8)
@@ -19,6 +21,8 @@ class TestMathFunctions(unittest.TestCase):
     self.assertEqual(power(0, 3), 0)
     self.assertEqual(power(2, 0.5), 1.4142135623730951)
     self.assertEqual(power(0.5, 2), 0.25)
+    self.assertEqual(power(0.5, -2), 4)
+    self.assertEqual(power(-0.5, -2), 4)
 
 if __name__ == '__main__':
   unittest.main()
