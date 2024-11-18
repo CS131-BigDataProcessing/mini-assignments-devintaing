@@ -1,5 +1,5 @@
 What other types of tasks could benefit from automation using cron or at?
-
+  Besides backups, file cleanups, and disk usage reports, cron can be used for many other types of tasks. For example, cron could be used to schedule weekly system restarts to allow updates to install, or it could be used to sync a directory to another one.
 
 What potential risks are there with poorly managed automated tasks, and how can you avoid them?
-
+  If there is a poorly managed automated task on your system, it could result in system slowdowns as a result of running more often than intended or do something like fill up your storage space if it's a poorly managed backup task. To avoid this, you can always double check the scheduling format to make sure that your job is running as frequently as you intend. You can also run the command outside of your crontab first to make sure that it is doing what you intend it to.
