@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: crime_test
+Version: 1.0
+Summary: A package to validate and process crime data
+Home-page: https://github.com/gituser/test-tackage
+Author: Devin Taing
+Author-email: devin.taing@sjsu.edu
+Requires-Dist: pandas
